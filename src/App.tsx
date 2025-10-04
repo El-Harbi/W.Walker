@@ -22,7 +22,7 @@ function App() {
     { name: 'Fady', username: '3j.xx', role: 'مسؤول سرقات', icon: Users },
     { name: 'xTylor', username: '.maybeimwrong', role: 'مسؤل الاعضاء', icon: Users },
     { name: 'xShbonke', username: 'shbonke', role: 'Leader', icon: Users },
-    { name: 'xOmar', username: 'omarxm', role: 'Leader', icon: Users },
+    { name: 'xOmar', username: 'omarxm', role: 'مسؤول العصابه', icon: Crown },
   ];
 
   const images = [
