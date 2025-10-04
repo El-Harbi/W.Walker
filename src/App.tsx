@@ -240,14 +240,14 @@ function App() {
           </h3>
 
           <div className="relative max-w-5xl mx-auto">
-            <div className="relative rounded-2xl overflow-hidden shadow-2xl shadow-blue-500/30">
+            <div className="relative rounded-2xl overflow-hidden shadow-2xl shadow-blue-500/30 min-h-[400px]">
               {videos.map((video, index) => (
                 <div
                   key={video.id}
-                  className={`transition-all duration-1000 transform ${
+                  className={`absolute inset-0 transition-all duration-1000 transform ${
                     activeVideo === index
-                      ? 'opacity-100 scale-100'
-                      : 'opacity-0 scale-95 absolute inset-0'
+                      ? 'opacity-100 scale-100 z-10 pointer-events-auto'
+                      : 'opacity-0 scale-95 z-0 pointer-events-none'
                   }`}
                 >
                   <div className="relative aspect-video bg-black rounded-2xl overflow-hidden border-4 border-blue-500/30 group">
