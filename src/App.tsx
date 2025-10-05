@@ -20,9 +20,11 @@ function App() {
     { name: 'xDemon', username: 'cox.p', role: 'نائب رئيس العصابة', icon: Users },
     { name: 'Hector', username: 'qwm_', role: 'مسؤول احتلالات', icon: Users },
     { name: 'Fady', username: '3j.xx', role: 'مسؤول سرقات', icon: Users },
-    { name: 'xTylor', username: '.maybeimwrong', role: 'مسؤل الاعضاء', icon: Users },
+    { name: 'xTyler', username: '.maybeimwrong', role: 'مسؤل الاعضاء', icon: Users },
     { name: 'xShbonke', username: 'shbonke', role: 'Leader', icon: Users },
     { name: 'xOmar', username: 'omarxm', role: 'مسؤول العصابه', icon: Crown },
+        { name: 'Diego', username: 'm.oh9', role: 'Leader', icon: Users },
+
   ];
 
   const images = [
