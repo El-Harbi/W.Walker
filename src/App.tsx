@@ -28,10 +28,10 @@ function App() {
   ];
 
   const images = [
-    'https://cdn.discordapp.com/attachments/1408128989608022127/1423936841467433082/1.png?ex=68e22006&is=68e0ce86&hm=e9c76a37aa6b8790a44b8ee5caea8ccd73cd373c8e76e395e64db26145cc94ce&',
-    'https://cdn.discordapp.com/attachments/1408128989608022127/1423936841895117003/2.png?ex=68e22006&is=68e0ce86&hm=b8123d3ce6e121d72a2dd787edfb8b69a2cb9d13d1d5884b580205cdfc0c1d48&',
-    'https://cdn.discordapp.com/attachments/1408128989608022127/1423936842260156537/3.png?ex=68e22006&is=68e0ce86&hm=8a9cbae2a0ff66a9717a8097be60d37d9888f1a9c4389e258252237b365e9f41&',
-    'https://cdn.discordapp.com/attachments/1408128989608022127/1423936842708811917/4.png?ex=68e22006&is=68e0ce86&hm=312e6748ab17c9d6496f0e11230b50cece31facb7378df59d2efd11634c1ea8e&'
+    'https://cdn.discordapp.com/attachments/1408128989608022127/1423936841467433082/1.png?ex=68e37186&is=68e22006&hm=2a971731c9d68328f5243bfc3d726dfbcd46c5c630a5a8757adc4b4093bf3d54&',
+    'https://cdn.discordapp.com/attachments/1408128989608022127/1423936842708811917/4.png?ex=68e37186&is=68e22006&hm=006bb8e7366cb656ab58e93313f85092c8752ac03d1210991a877c13995a2393&',
+    'https://cdn.discordapp.com/attachments/1408128989608022127/1423936841895117003/2.png?ex=68e37186&is=68e22006&hm=96529286020cea025934a65106e97ecaa41b70adc5b14a05e67626ee73151f9c&',
+    'https://cdn.discordapp.com/attachments/1408128989608022127/1423936842260156537/3.png?ex=68e37186&is=68e22006&hm=4100fba6775693cc305c759b1c39f5c21dda76799f1b303ea02d0ce82a38815f&'
   ];
 
   const videos = [
@@ -50,42 +50,42 @@ function App() {
       handle: '@mohamedabdelaal-k',
       channelId: 'UCu1kamQgTPc-6NVRbjmQm9g',
       url: 'https://www.youtube.com/@mohamedabdelaal-k',
-      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936843509923881/Demon.png?ex=68e22006&is=68e0ce86&hm=94c523b112304bd799e393664408b9e741f5355a0c13cf6e0a430b25ff821dc2&',
+      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936843509923881/Demon.png?ex=68e37186&is=68e22006&hm=82350273f212d6b3b2e253fc3fa8027244287fc39b2c34c5f801e886b6522ec1&',
     },
     {
       name: 'هـيـكـتـور ',
       handle: '@TnTeF',
       channelId: 'UCH8eAKAZBr5PGz-QONhKI1Q',
       url: 'https://www.youtube.com/channel/UCH8eAKAZBr5PGz-QONhKI1Q',
-      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936843971301446/Hector.png?ex=68e22007&is=68e0ce87&hm=0c34abef4c5ce97d0992032763204e2c8c254d7c00a05105f176f5c48e326f52&',
+      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936843971301446/Hector.png?ex=68e37187&is=68e22007&hm=8748295a28c05993f5ad7179e350e6c88078a7237869be43335725281da4d61c&',
     },
     {
       name: 'Maher_Gamaing',
       handle: '@maher11-c2x',
       channelId: 'UCWDye2RqWJF_7VPns84oD5Q',
       url: 'https://www.youtube.com/channel/UCWDye2RqWJF_7VPns84oD5Q',
-      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936828607565894/Maher.png?ex=68e22003&is=68e0ce83&hm=6d91cbbc602814c2a205daca5e8462cde6ea0ab92a2b95e17e48d13aa4e03ae4&',
+      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936828607565894/Maher.png?ex=68e37183&is=68e22003&hm=3210f71bb4f9868ba0417a9a859c2cbfc3bd473904924a6090387e139042e374&',
     },
     {
       name: 'OMAR',
       handle: '@9ww9.',
       channelId: 'UCKRhuE_oBcQkDKLvsefpR0g',
       url: 'https://www.youtube.com/channel/UCKRhuE_oBcQkDKLvsefpR0g',
-      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936829308145674/Omar.png?ex=68e22003&is=68e0ce83&hm=7763facdfcc569f63e1ff017ce1500688f220e26867e85eb79f123e55524feaf&',
+      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936829308145674/Omar.png?ex=68e37183&is=68e22003&hm=3b15307735550639090be5ee737a0a140b2d4936598b00b286420ac27b69d21b&',
     },
     {
       name: 'SHBONKE',
       handle: '@shbonke',
       channelId: 'UCFIDL6D2YYfI8scImGDTzJA',
       url: 'https://www.youtube.com/channel/UCFIDL6D2YYfI8scImGDTzJA',
-      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936829672915004/Shbonke.png?ex=68e22003&is=68e0ce83&hm=9518d7ce77d4eb03b5432b1cb0f3c7dac0d18329ec22426b86f0f39e0bf44ba8&',
+      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936829672915004/Shbonke.png?ex=68e37183&is=68e22003&hm=227dc8acaf4c141c4b3a8cf0901cd180c8d21273fa9c576cf23bf165d4ad1b3e&',
     },
     {
       name: 'Iniesta Simeone',
       handle: '@K4H-0-k4h',
       channelId: 'UCT2zhvoJy47r7x0mKDoPBNQ',
       url: 'https://www.youtube.com/channel/UCT2zhvoJy47r7x0mKDoPBNQ',
-      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936827860979762/Iniesta.png?ex=68e22003&is=68e0ce83&hm=8c35e42688655cc4d2eca3beec634c899b6d577db00bb6c4e24c22bed7a34e83&',
+      image: 'https://cdn.discordapp.com/attachments/1408128989608022127/1423936827860979762/Iniesta.png?ex=68e37183&is=68e22003&hm=d9f18d5d7edaaefbf93ed93d1d83603fbcc95d66d9fd460fd2ee331269df7907&',
     },
   ];
 
