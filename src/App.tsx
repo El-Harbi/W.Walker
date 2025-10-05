@@ -23,7 +23,7 @@ function App() {
     { name: 'xTyler', username: '.maybeimwrong', role: 'مسؤل الاعضاء', icon: Users },
     { name: 'xShbonke', username: 'shbonke', role: 'Leader', icon: Users },
     { name: 'xOmar', username: 'omarxm', role: 'مسؤول العصابه', icon: Crown },
-        { name: 'Diego', username: 'm.oh9', role: 'Leader', icon: Users },
+        { name: 'xDiego', username: 'm.oh9', role: 'Leader', icon: Users },
 
   ];
 
