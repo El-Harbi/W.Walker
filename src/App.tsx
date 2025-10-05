@@ -154,7 +154,7 @@ function App() {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-4 animate-slide-in">
             <img
-              src="https://cdn.discordapp.com/attachments/1408128989608022127/1423936828276473937/logo.png?ex=68e22003&is=68e0ce83&hm=cfe8cc664448a16c03874f209c47e9c4099d69260b1a1e3d5bf800c0007e2061&"
+              src="https://cdn.discordapp.com/attachments/1408128989608022127/1423936828276473937/logo.png?ex=68e37183&is=68e22003&hm=c02309b2d57e638a0abca2ce60af61aa99a57a46475c0ed75af63adabc32cc56&"
               alt="W.Walker Logo"
               className="h-16 w-16 object-contain drop-shadow-2xl hover:scale-110 transition-transform duration-300"
             />
